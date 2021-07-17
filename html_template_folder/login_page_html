@@ -3,7 +3,7 @@
         <title>doge_github</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="/css_file/login_page_css.css"> 
+        <link rel="stylesheet" href="http://localhost:8080/doge_web_application/html/login_page_css.css"> 
     </head>
     <body>
         <h1>Username: $username</h1>
